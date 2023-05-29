@@ -1,0 +1,2 @@
+# req_smuggling_server
+request smugglingを理解するための実装
